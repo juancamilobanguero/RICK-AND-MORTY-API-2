@@ -1,0 +1,32 @@
+.titulo{
+    margin: 5rem;
+    font-size: 100px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.view{
+    background-color: black;
+}
+.footer{
+    display: flex;
+    gap: 3rem;
+    text-transform: none;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    flex-flow: column nowrap;
+    position: relative;
+    background: rgb(32, 35, 41);
+    color: rgb(158, 158, 158);
+    padding: 4.5rem 0px;
+    min-height: calc(120px);
+    width: 100%
+    
+}
+.tvt{
+   text-decoration: none;
+}
+
